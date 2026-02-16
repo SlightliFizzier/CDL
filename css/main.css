@@ -136,3 +136,9 @@ input[type="checkbox"] {
     --spin-duration: 1s;
     animation: none;
 }
+#CSLogo1:hover {
+    animation: spin var(--spin-duration) linear infinite
+}
+#CSLogo2:hover {
+    animation: spin var(--spin-duration) linear infinite
+}
