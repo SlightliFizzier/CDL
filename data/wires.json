@@ -1,0 +1,18 @@
+{
+    "id": 95927040,
+    "name": "wires",
+    "author": "korviid",
+    "creators": [],
+    "verifier": "SlightliFizzi",
+    "verification": "https://youtu.be/bIvc0bHzD2Q",
+    "percentToQualify": 100,
+    "password": "Free To Copy",
+    "records": [
+        {
+            "user": "Chubs Dubs",
+            "link": "https://www.youtube.com/watch?v=WnZSfh-2hv8",
+            "percent": 100,
+            "fps": 240
+        },
+    ]
+}
