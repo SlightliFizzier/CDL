@@ -116,3 +116,23 @@ input[type="checkbox"] {
     background: #555;
   }
 
+#CSLogo1 {
+    position: absolute;
+    top: 1vh;
+    left: 2vh;
+    width: 8vh;
+    height: auto;
+    --spin-duration: 1s;
+    animation: none;
+}
+
+
+#CSLogo2 {
+    position: absolute;
+    top: 1vh;
+    right: 2vh;
+    width: 8vh;
+    height: auto;
+    --spin-duration: 1s;
+    animation: none;
+}
