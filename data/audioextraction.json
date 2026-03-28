@@ -8,5 +8,11 @@
     "percentToQualify": 100,
     "password": "407395",
     "records": [
+        {
+            "user": "SlightliFizzi",
+            "link": "https://www.youtube.com/watch?v=yxSxcyvl5aE",
+            "percent": 100,
+            "fps": 720
+        },
     ]
 }
