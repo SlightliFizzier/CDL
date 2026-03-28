@@ -19,6 +19,12 @@
             "link": "https://www.youtube.com/watch?v=ttUlSmEkS9g",
             "percent": 100,
             "fps": 288
+        },
+        {
+            "user": "Timescapes",
+            "link": "https://www.youtube.com/watch?v=uKGzo51ooss",
+            "percent": 100,
+            "fps": 480
         }
     ]
 }
