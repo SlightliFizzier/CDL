@@ -9,5 +9,11 @@
     "percentToQualify": 100,
     "password": "769874",
     "records": [
+        {
+            "user": "Timescapes",
+            "link": "https://www.youtube.com/watch?v=HVVqZN-T8Q8",
+            "percent": 100,
+            "fps": 240
+        }
     ]
 }
