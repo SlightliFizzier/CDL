@@ -3,16 +3,10 @@
     "name": "I NEVER DREAM",
     "author": "skywalker14",
     "creators": [],
-    "verifier": "Kofyy",
-    "verification": "https://www.youtube.com/watch?v=qUZJ0izrfJQ",
+    "verifier": "SlightliFizzi",
+    "verification": "https://youtu.be/yc7v4hrSISs?si=m1hirTKYajTbX0Ku",
     "percentToQualify": 100,
     "password": "Free To Copy",
     "records": [
-        {
-            "user": "SlightliFizzi",
-            "link": "https://youtu.be/yc7v4hrSISs?si=m1hirTKYajTbX0Ku",
-            "percent": 100,
-            "fps": 240
-        }
     ]
 }
