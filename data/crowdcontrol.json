@@ -9,12 +9,6 @@
     "password": "Free To Copy",
     "records": [
         {
-            "user": "opt1ss",
-            "link": "https://youtu.be/JyY3KsqeYVM?si=SApZs_5izfCcKkiz",
-            "percent": 100,
-            "fps": 360
-        },
-        {
             "user": "Hynamite",
             "link": "https://youtu.be/S0Xakjc8S2w?si=sBNEPqd_K4UefdCA",
             "percent": 100,
@@ -25,6 +19,12 @@
             "link": "https://youtu.be/HGjqdKHBeJ8?si=_Jhet0tio0oun20I",
             "percent": 100,
             "fps": 144
+        },
+        {
+            "user": "Chubs Dubs",
+            "link": "https://www.youtube.com/watch?v=tl2tYPn_1kA",
+            "percent": 100,
+            "fps": 60
         }
     ]
 }
