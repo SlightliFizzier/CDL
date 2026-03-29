@@ -3,16 +3,10 @@
     "name": "Devil Vortex",
     "author": "Rustam",
     "creators": [],
-    "verifier": "opt1ss",
-    "verification": "https://youtu.be/VGfrg6gHN9E?si=IAhuQ_UGNu928q0D",
+    "verifier": "SlightliFizzi",
+    "verification": "https://youtu.be/E5WqrajxcIk?si=ClgDDNJ1x5qnqYzp",
     "percentToQualify": 100,
     "password": "695314",
     "records": [
-        {
-            "user": "SlightliFizzi",
-            "link": "https://youtu.be/E5WqrajxcIk?si=ClgDDNJ1x5qnqYzp",
-            "percent": 100,
-            "fps": 360
-        }
     ]
 }
