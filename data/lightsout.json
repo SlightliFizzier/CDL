@@ -3,16 +3,10 @@
     "name": "Lights Out",
     "author": "Dashiell10",
     "creators": [],
-    "verifier": "opt1ss",
-    "verification": "https://youtu.be/yUDCohExtBM?si=iL5XEyS7qaF4hSZV",
+    "verifier": "SlightliFizzi",
+    "verification": "https://youtu.be/ZMGcePCJE2Q?si=C6_EXQL9c4gYyLnz",
     "percentToQualify": 100,
     "password": "91921",
     "records": [
-        {
-            "user": "SlightliFizzi",
-            "link": "https://youtu.be/ZMGcePCJE2Q?si=C6_EXQL9c4gYyLnz",
-            "percent": 100,
-            "fps": 288
-        }
     ]
 }
