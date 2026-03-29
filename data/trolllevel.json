@@ -3,16 +3,10 @@
     "name": "troll level",
     "author": "Lexycat",
     "creators": [],
-    "verifier": "opt1ss",
-    "verification": "https://youtu.be/TwbGsj575cI?si=p-D9jS8UrZpJ7lcX",
+    "verifier": "SlightliFizzi",
+    "verification": "https://youtu.be/7EoYW9foKkc?si=Z3pf5oUKsT6IcMwc",
     "percentToQualify": 100,
     "password": "001450",
     "records": [
-        {
-            "user": "SlightliFizzi",
-            "link": "https://youtu.be/7EoYW9foKkc?si=Z3pf5oUKsT6IcMwc",
-            "percent": 100,
-            "fps": 288
-        }
     ]
 }
